@@ -4,3 +4,5 @@ print total
 if total>100 then
 give discount 50%
 else no discount
+if customer is a regular customer
+give 10 points for each purchase
